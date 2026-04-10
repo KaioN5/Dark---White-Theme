@@ -1,7 +1,7 @@
 # Dark---White-Theme
 Projeto de frontend simples que implementa uma lista de tarefas estática com suporte a troca de tema entre “light” e “dark”.
 
-# Projeto Bradesco - Task List
+# Projeto - Mudança de Temas
 
 Este é um projeto frontend simples que demonstra a criação de uma lista de tarefas estática com suporte à troca de tema (light/dark).
 
